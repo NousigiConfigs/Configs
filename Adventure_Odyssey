@@ -2170,7 +2170,7 @@
             }
         },
         "Auto Ingame Auto Play": {
-            "Enable": false,
+            "Enable": true,
             "Enable Auto Play Stage Type": {
                 "Odyssey": true,
                 "Challenge": true,
