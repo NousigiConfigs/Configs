@@ -2189,7 +2189,7 @@ getgenv().Config = {
 				["Auto Use Skills"] = false
 			},
 			["Luce (Hacker)"] = {
-				["Auto Sell Dave for Buff"] = true
+				["Auto Sell Dave for Buff"] = false
 			},
 			["Song Jinwu and Igros"] = {
 				["Auto Shadow"] = {
